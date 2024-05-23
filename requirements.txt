@@ -1,0 +1,25 @@
+Django
+djangorestframework
+django-environ
+django-filter
+django-autoslug
+django-countries
+pillow
+django-phonenumber-field
+phonenumbers
+psycopg2-binary
+flake8
+black
+isort               # The Django web framework
+django-crispy-forms==1.12.0   # For elegant form rendering
+django-environ==0.7.0         # For environment variable configuration
+django-debug-toolbar==3.2.2    # Debugging tool for Django applications
+django-filter==2.4.0           # Filter Django QuerySets dynamically
+django-rest-framework==0.1.0  # A powerful toolkit for building Web APIs
+djangorestframework-jwt # JSON Web Token authentication for Django REST Framework
+django-cors-headers==3.8.0    # Handling CORS headers in Django                # Python Imaging Library
+django-allauth==0.47.0        # User authentication for Django
+django-storages==1.12.2       # For using various storage backends with Django
+psycopg2==2.9.1               # PostgreSQL adapter for Python
+mysqlclient==2.1.0            # MySQL adapter for Python
+whitenoise==6.0.0             # Simplified static file serving for Django
